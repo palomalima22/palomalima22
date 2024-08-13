@@ -1,7 +1,7 @@
 ### Olá! Eu me chamo Paloma Lima 👋
 
 - 👩🏻‍💻 Atuo nos meus Projetos da Faculdade como BackEnd
-- 👩🏻‍🎓📚 Sou estudante em Análise e Desenvolvimento de Sistemas na Fatec Prof° Jessen Vidal e estou no 2° semestre
+- 👩🏻‍🎓📚 Sou estudante em Análise e Desenvolvimento de Sistemas na Fatec Prof° Jessen Vidal e estou no 3° semestre
 - 💻 Estudando atualmente a linguagem de Python e Java
 - 🥈 Fiquei em Segundo Lugar na Maratona interna de Programação do interFatec Segundo Semestre de 2023
 
