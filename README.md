@@ -1,4 +1,4 @@
-### Olá! Me Chamo Paloma Lima 👋
+### Olá! Eu me chamo Paloma Lima 👋
 
 - 👩🏻‍💻 Atuo nos meus Projetos da Faculdade como BackEnd
 - 👩🏻‍🎓📚 Sou estudante em Análise e Desenvolvimento de Sistemas na Fatec Prof° Jessen Vidal e estou no 2° semestre
