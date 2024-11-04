@@ -2,7 +2,7 @@
 
 - 👩🏻‍💻 Atuo nos meus Projetos como BackEnd
 - 👩🏻‍🎓📚 Sou estudante na parte de Analise de Dados e sistemas de Redes de Telecom
-- 💻 Estudando atualmente a linguagem de Python e Java
+- 💻 Estudando atualmente a linguagem de Python e JavaScript
 - 🥈 Fiquei em Segundo Lugar na Maratona interna de Programação do interFatec Segundo Semestre de 2023
 
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
